@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>power.jpg</file>
+        <file>results.jpg</file>
+        <file>tshirt1.png</file>
+        <file>tshirt2.png</file>
+    </qresource>
+</RCC>
