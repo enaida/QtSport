@@ -1,1 +1,1 @@
-# QtVolleyball
+Qt Creator. Choose players from both team on the main screen. Enter results and individual performance of each player. Enter the date of the match. Press the start button to show jerseys (shirts) and numbers of players. Capture an image of GraphicsView and place it on a disk. Reset GraphicsView and main window to the initial state. 
